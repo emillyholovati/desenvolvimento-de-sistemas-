@@ -16,7 +16,7 @@ class Main {
         System.out.print("infrome quantidade de segundos: ");
         quant_segundos = scanner.nextInt();
         
-        total_segundos = quant_segundos + quant_,minutos * 60 + quant_horas * 3600;
+        total_segundos = quant_segundos + quant_minutos * 60 + quant_horas * 3600;
         
         System.out.print("Total: %d ", total_segundos);
       
